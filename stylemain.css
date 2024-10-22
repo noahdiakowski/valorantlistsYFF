@@ -42,7 +42,7 @@ nav {
   display: flex;
   gap: 1rem;
   flex-direction: row;
-  margin-left: 16rem;
+  margin-left: 20rem;
   margin-top: 1rem;
   font-family: thevalorant;
 }
@@ -139,7 +139,7 @@ h5 {
 }
 
 .tbteam {
-  width: 97.75vw;
+  width: 96.75vw;
   border-collapse: collapse;
   font-size: 0.7rem;
   padding: 1rem;
