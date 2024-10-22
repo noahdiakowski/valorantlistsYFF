@@ -19,7 +19,6 @@
   height: fit-content;
   display: flex;
   flex-direction: column;
-  gap: rem;
 }
 
 body {
@@ -79,7 +78,7 @@ h5 {
 
 
 #ranking {
-  margin-top: 2rem;
+  margin-top: 5rem;
   margin-left: 1rem;
   float: left;
   height: fit-content;
@@ -130,7 +129,7 @@ h5 {
   float: left;
   height: fit-content;
   width: 120vw;
-  margin-top: -0.6rem;
+  margin-top: 2rem;
   margin-left: 0.99rem;
 
 }
