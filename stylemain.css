@@ -10,9 +10,7 @@
 
 * {
   font-weight: 100;
-  font-size: 1rem;
   letter-spacing: 0.1rem;
-  overflow: hidden;
 }
 
 .flexall{
@@ -42,8 +40,8 @@ nav {
   display: flex;
   gap: 1rem;
   flex-direction: row;
-  margin-left: 25rem;
-  margin-top: 0.5rem;
+  margin-left: 19rem;
+  margin-top: 0rem;
   font-family: thevalorant;
 }
 
@@ -64,11 +62,11 @@ nav {
 .another{
   display: flex;
   flex-direction: row;
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 h5 {
-  font-size: 3rem;
+  font-size: 2rem;
   color: #fb4353;
   text-shadow:
       -1px -1px 0 black,
@@ -82,7 +80,7 @@ h5 {
 
 
 #ranking {
-  margin-top: 5rem;
+  margin-top: 3rem;
   margin-left: 1rem;
   float: left;
   height: fit-content;
@@ -133,13 +131,12 @@ h5 {
   float: left;
   height: 25vh;
   width: 120vw;
-  margin-top: 1rem;
   margin-left: 0.99rem;
 
 }
 
 .tbteam {
-  width: 96.75vw;
+  width: 95.75vw;
   border-collapse: collapse;
   font-size: 0.7rem;
   padding: 1rem;
@@ -161,7 +158,7 @@ h5 {
   color: white;
   padding: 4px;
   font-weight: 100;
-  font-size: 1.3rem;
+  font-size: 1rem;
   text-shadow:
       -1px -1px 0 #fb4353,
       1px -1px 0 #fb4353,
@@ -173,14 +170,14 @@ h5 {
   background-color: #fb4353;
   text-align: center;
   padding: 3px;
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 
 .name1, .name3 {
   background-color: #fb4353;
   text-align: center;
   padding: 0px;
-  font-size: 1rem;
+  font-size: 0.8rem;
   width: 20rem;
 }
 
@@ -190,7 +187,7 @@ h5 {
   padding: 0;
   float: right;
   gap: 0.4rem;
-  margin-top: 6rem;
+  margin-top: 4.1rem;
   margin-right: 1.9rem;
   margin-bottom: 1rem;
 }
@@ -201,11 +198,12 @@ h5 {
   padding: 0;
   background-color: #0a1e20;
 }
+
 .times {
   width: 40vw;
-  height: 25vh;
+  font-size: 0.8rem;
+  height: fit-content;
   border-collapse: collapse;
-  font-size: 0.7rem;
   font-family: thevalorant;
   background-color: #fb4353;
   border: 2px solid black;
@@ -247,7 +245,7 @@ h5 {
   width: 40vw;
   height: 25vh;
   border-collapse: collapse;
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   font-family: thevalorant;
   background-color: #6A2A35;
   border: 2px solid black;
