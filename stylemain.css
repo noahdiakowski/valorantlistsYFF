@@ -80,7 +80,7 @@ h5 {
 
 
 #ranking {
-  margin-top: 3rem;
+  margin-top: 3.5rem;
   margin-left: 1rem;
   float: left;
   height: fit-content;
@@ -213,6 +213,7 @@ h5 {
 .timewrap tr, th {
   border: 2px solid black;
   padding: 0.45rem;
+  margin-top: 1rem;
   text-align: center;
   font-family: thevalorant
 }
