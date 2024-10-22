@@ -40,7 +40,7 @@ nav {
   display: flex;
   gap: 1rem;
   flex-direction: row;
-  margin-left: 15rem;
+  margin-left: 12rem;
   margin-top: 0rem;
   font-family: thevalorant;
 }
@@ -208,6 +208,7 @@ h5 {
   font-family: thevalorant;
   background-color: #fb4353;
   border: 2px solid black;
+  margin-top: 1rem;
 }
 
 .timewrap tr, th {
