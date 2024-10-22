@@ -1,0 +1,351 @@
+@font-face {
+  font-family: thevalorant;
+  src: url(../font/valorant_font.ttf);
+}
+
+@font-face {
+  font-family: para;
+  src: url(../font/para_font.ttf);
+}
+
+* {
+  font-weight: 100;
+  letter-spacing: 0.1rem;
+  overflow: hidden;
+}
+
+.flexall{
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  gap: rem;
+}
+
+body {
+  margin: 0;
+  background-color: #0c1c24;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+nav {
+  background-color: #183c40;
+  height: 8vh;
+  width: 100%;
+  position: fixed;
+  border: 2px solid black;
+}
+
+.flex{
+  display: flex;
+  gap: 1rem;
+  flex-direction: row;
+  margin-left: 12rem;
+  font-family: thevalorant;
+}
+
+#val{
+  height: 25vh;
+  width: 15vw;
+  margin-top:  0rem;
+  margin-left: 1rem;
+}
+
+#valo{
+  height: fit-content;
+  margin-top: -2rem;
+}
+
+.another{
+  display: flex;
+  flex-direction: row;
+  margin-top: 1rem;
+}
+
+h5 {
+  font-size: 1.8rem;
+  color: #fb4353;
+  text-shadow:
+      -1px -1px 0 black,
+      1px -1px 0 black,
+      -1px 1px 0 black,
+      1px 1px 0 black;
+  transform: scaleY(0.9);
+  margin-top: 0.45rem;
+  text-align: center;
+}
+
+
+#ranking {
+  margin-top: 2rem;
+  margin-left: 1rem;
+  float: left;
+  height: fit-content;
+  display: flex;
+  padding: 0;
+}
+
+.rank {
+  width: 41vw;
+  height: fit-content;
+  border-collapse: collapse;
+  font-size: 0.8rem;
+  font-family: para;
+  background-color: #6A2A35;
+  border: 2px solid black;
+}
+
+.rank th,td {
+  border: 2px solid black;
+  flex-direction: row;
+  padding: 0.3rem;
+  text-align: left;
+}
+
+.number {
+  color: #fb4353;
+  text-align: center;
+  text-shadow:
+      -1px -1px 0 black,
+      1px -1px 0 black,
+      -1px 1px 0 black,
+      1px 1px 0 black;
+}
+
+
+.teams {
+  color: white;
+  font-family: thevalorant;
+  text-shadow:
+      -1px -1px 0 #fb4353,
+      1px -1px 0 #fb4353,
+      -1px 1px 0 #fb4353,
+      1px 1px 0 #fb4353;
+}
+
+.wrapteam{
+  display: flex;
+  float: left;
+  height: fit-content;
+  width: 120vw;
+  margin-top: -0.6rem;
+  margin-left: 0.99rem;
+
+}
+
+.tbteam {
+  width: 95.75vw;
+  border-collapse: collapse;
+  font-size: 0.8rem;
+  font-family: para;
+  background-color: #6A2A35;
+  border: 2px solid black;
+  float: right;
+}
+
+#crown{
+  height: 1.5rem;
+  width: 1.5rem;
+ }
+
+
+
+.lag, .lag1, .lag3 {
+  background-color: #6A2A35;
+  color: white;
+  padding: 4px;
+  font-weight: 100;
+  font-size: 0.7rem;
+  text-shadow:
+      -1px -1px 0 #fb4353,
+      1px -1px 0 #fb4353,
+      -1px 1px 0 #fb4353,
+      1px 1px 0 #fb4353;
+}
+
+.name {
+  background-color: #fb4353;
+  text-align: center;
+  padding: 3px;
+  font-size: 0.7rem;
+}
+
+.name1, .name3 {
+  background-color: #fb4353;
+  text-align: center;
+  padding: 0px;
+  font-size: 0.7rem;
+  width: 14rem;
+}
+
+.timewrap {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  float: right;
+  gap: 0.4rem;
+  margin-top: 3rem;
+  margin-right: 1.9rem;
+  margin-bottom: 1rem;
+}
+
+.all{
+  height:fit-content;
+  width: 100%;
+  padding: 0;
+  background-color: #0a1e20;
+}
+.times {
+  width: 40vw;
+  height: 25vh;
+  border-collapse: collapse;
+  font-size: 0.7rem;
+  font-family: thevalorant;
+  background-color: #fb4353;
+  border: 2px solid black;
+}
+
+.timewrap tr, th {
+  border: 2px solid black;
+  padding: 0.45rem;
+  text-align: center;
+  font-family: thevalorant
+}
+
+.type{
+  color: black;
+  font-weight: bold;
+  text-shadow:
+  -0.5px -0.5px 0 white,
+  0.5px -0.5px 0 white,
+  -0.5px 0.5px 0 #fff,
+  0.5px 0.5px 0 #fff;
+}
+
+
+.type3{
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+
+.klokke{
+  color: black;
+  text-align: center;
+  padding: 0;
+  font-weight: bold;
+}
+
+
+.times2 {
+  width: 40vw;
+  height: 25vh;
+  border-collapse: collapse;
+  font-size: 0.7rem;
+  font-family: thevalorant;
+  background-color: #6A2A35;
+  border: 2px solid black;
+}
+
+.timewra2p tr th {
+  border: 2px solid black;
+  padding: 0.55rem;
+  text-align: center;
+  font-family: thevalorant
+}
+
+.type4{
+  color: white;
+  text-shadow:   
+  -0.5px -0.5px 0 #fb4353,
+  0.5px -0.5px 0 #fb4353,
+  -0.5px 0.5px 0 #fb4353,
+  0.5px 0.5px 0 #fb4353;
+}
+
+.type2{
+  color: white;
+}
+
+.klokke2{
+  color: white;
+  text-align: center;
+  padding: 0;
+}
+
+.type4{
+  text-align: center;
+  color: black;
+}
+
+@media (min-width: 1097px) {
+  .tbteam{
+    margin-top: 2.5rem;
+  
+  }
+
+  .flex{
+    margin-left: 18rem;
+    gap: 1rem;
+  }
+
+  .timewrap{
+    margin-top: 4rem;
+  }
+}
+
+  #ranking{
+    margin-top: 2.84rem;
+  }
+
+
+
+  @media (min-width: 2194px) {
+
+    *{
+     font-size: x-large;
+    } 
+     .all{
+       margin-top: 1.75rem;
+     }
+     .tbteam{
+       margin-top: 2.3rem;
+      height: 30vh;
+      width: 96.78vw;
+     }
+   
+     .lag1, .lag3{
+       width: 24vw;
+     }
+     .flex{
+     display: flex;
+     gap: 1rem;
+     flex-direction: row;
+     margin-left: 30rem;
+     font-size: xx-large;
+     font-family: thevalorant;
+     }
+   
+     h5{
+       margin-top: 1.3rem;
+       margin-right: 0.5rem;
+     }  
+     .timewrap{
+       margin-top: 4rem;
+     }
+   
+     #val{
+       margin-top: 2rem;
+     }
+   
+     #valo{
+       margin-top: 1rem;
+       width: 27vw;
+     }
+   
+     #ranking{
+       margin-top: 3rem;
+     }
+   }
