@@ -91,7 +91,7 @@ h5 {
 
 .rank {
   width: 47.5vw;
-  margin-top: -1rem;
+  margin-top: -1.5rem;
   height: fit-content;
   border-collapse: collapse;
   font-size: 0.85rem;
@@ -204,14 +204,14 @@ h5 {
 }
 
 .times {
-  width: 40vw;
+  width: 45vw;
   font-size: 0.8rem;
   height: fit-content;
   border-collapse: collapse;
   font-family: thevalorant;
   background-color: #fb4353;
   border: 2px solid black;
-  margin-top: -0.5rem;
+  margin-top: -1rem;
 }
 
 .timewrap tr, th {
@@ -248,7 +248,7 @@ h5 {
 
 
 .times2 {
-  width: 40vw;
+  width: 45vw;
   height: 25vh;
   border-collapse: collapse;
   font-size: 0.8rem;
