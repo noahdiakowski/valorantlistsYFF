@@ -157,7 +157,7 @@ h5 {
   color: white;
   padding: 4px;
   font-weight: 100;
-  font-size: 0.7rem;
+  font-size: 0.85rem;
   text-shadow:
       -1px -1px 0 #fb4353,
       1px -1px 0 #fb4353,
@@ -169,14 +169,14 @@ h5 {
   background-color: #fb4353;
   text-align: center;
   padding: 3px;
-  font-size: 0.85rem;
+  font-size: 0.75rem;
 }
 
 .name1, .name3 {
   background-color: #fb4353;
   text-align: center;
   padding: 0px;
-  font-size: 0.85rem;
+  font-size: 0.75rem;
   width: 14rem;
 }
 
