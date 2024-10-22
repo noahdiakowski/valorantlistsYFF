@@ -239,12 +239,14 @@ h5 {
   text-align: center;
   color: black;
   font-weight: bold;
+  font-size: 1.5rem;
 }
 
 .klokke{
   color: black;
   text-align: center;
   padding: 0;
+  font-size: 1.5rem;
   font-weight: bold;
 }
 
@@ -253,7 +255,7 @@ h5 {
   width: 45vw;
   height: 25vh;
   border-collapse: collapse;
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-family: thevalorant;
   background-color: #6A2A35;
   border: 2px solid black;
@@ -262,7 +264,6 @@ h5 {
 .timewrap tr th {
   border: 2px solid black;
   padding: 0.55rem;
-  font-size: 1.5rem;
   text-align: center;
   font-family: thevalorant
 }
@@ -278,6 +279,7 @@ h5 {
 
 .type2{
   color: white;
+  font-size: 1rem;
 }
 
 .klokke2{
