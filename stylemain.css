@@ -280,27 +280,6 @@ h5 {
   color: black;
 }
 
-@media (min-width: 1097px) {
-  .tbteam{
-    margin-top: 2.5rem;
-  
-  }
-
-  .flex{
-    margin-left: 18rem;
-    gap: 1rem;
-  }
-
-  .timewrap{
-    margin-top: 4rem;
-  }
-}
-
-  #ranking{
-    margin-top: 2.84rem;
-  }
-
-
 
   @media (max-width: 2194px) {
 
