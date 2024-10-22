@@ -68,7 +68,7 @@ nav {
 
 h5 {
   font-size: 2rem;
-  color: #0800ff;
+  color: #fb4353;
   text-shadow:
       -1px -1px 0 black,
       1px -1px 0 black,
@@ -76,7 +76,6 @@ h5 {
       1px 1px 0 black;
   transform: scaleY(0.9);
   margin-top: 0.45rem;
-  text-align: center;
 }
 
 
