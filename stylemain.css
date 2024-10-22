@@ -42,7 +42,6 @@ nav {
   display: flex;
   gap: 1rem;
   flex-direction: row;
-  margin-left: auto;
   margin-top: 0rem;
   font-family: thevalorant;
 }
