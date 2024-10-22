@@ -40,7 +40,7 @@ nav {
   display: flex;
   gap: 1rem;
   flex-direction: row;
-  margin-left: 12rem;
+  margin-left: 10rem;
   margin-top: 0rem;
   font-family: thevalorant;
 }
@@ -80,7 +80,7 @@ h5 {
 
 
 #ranking {
-  margin-top: 3.5rem;
+  margin-top: 4rem;
   margin-left: 1rem;
   float: left;
   height: fit-content;
