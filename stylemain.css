@@ -80,7 +80,6 @@ h5 {
 
 
 #ranking {
-  margin-top: 4rem;
   margin-left: 1rem;
   float: left;
   height: fit-content;
@@ -90,6 +89,7 @@ h5 {
 
 .rank {
   width: 47.5vw;
+  margin-top: 4rem;
   height: fit-content;
   border-collapse: collapse;
   font-size: 0.85rem;
