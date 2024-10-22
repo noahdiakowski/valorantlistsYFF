@@ -65,7 +65,7 @@ nav {
 }
 
 h5 {
-  font-size: 1.8rem;
+  font-size: 2.5rem;
   color: #fb4353;
   text-shadow:
       -1px -1px 0 black,
@@ -91,7 +91,7 @@ h5 {
   width: 41vw;
   height: fit-content;
   border-collapse: collapse;
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-family: para;
   background-color: #6A2A35;
   border: 2px solid black;
@@ -157,7 +157,7 @@ h5 {
   color: white;
   padding: 4px;
   font-weight: 100;
-  font-size: 0.7rem;
+  font-size: 1rem;
   text-shadow:
       -1px -1px 0 #fb4353,
       1px -1px 0 #fb4353,
@@ -169,14 +169,14 @@ h5 {
   background-color: #fb4353;
   text-align: center;
   padding: 3px;
-  font-size: 0.7rem;
+  font-size: 1rem;
 }
 
 .name1, .name3 {
   background-color: #fb4353;
   text-align: center;
   padding: 0px;
-  font-size: 0.7rem;
+  font-size: 1rem;
   width: 14rem;
 }
 
@@ -201,7 +201,7 @@ h5 {
   width: 40vw;
   height: 25vh;
   border-collapse: collapse;
-  font-size: 0.7rem;
+  font-size: 1rem;
   font-family: thevalorant;
   background-color: #fb4353;
   border: 2px solid black;
@@ -243,7 +243,7 @@ h5 {
   width: 40vw;
   height: 25vh;
   border-collapse: collapse;
-  font-size: 0.7rem;
+  font-size: 1rem;
   font-family: thevalorant;
   background-color: #6A2A35;
   border: 2px solid black;
@@ -302,7 +302,7 @@ h5 {
 
 
 
-  @media (min-width: 2194px) {
+  @media (max-width: 2194px) {
 
     *{
      font-size: x-large;
