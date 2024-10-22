@@ -281,7 +281,7 @@ h5 {
 }
 
 
-  /*@media (max-width: 2194px) {
+  @media (min-width: 1500px) {
 
     *{
      font-size: x-large;
@@ -327,4 +327,4 @@ h5 {
      #ranking{
        margin-top: 3rem;
      }
-   }-->
+   }
