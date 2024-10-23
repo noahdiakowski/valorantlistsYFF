@@ -300,8 +300,7 @@ h5 {
   @media (min-width: 2000px) {
 
     *{
-     font-size: x-large;
-    
+     font-size: 5rem;
     } 
      .all{
        margin-top: 2.75rem;
