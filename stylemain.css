@@ -35,7 +35,7 @@ nav {
   height: 8vh;
   width: 100%;
   position: absolute;
-  border: 4px solid black;
+  border: 6px solid black;
 }
 
 .flex{
@@ -96,11 +96,11 @@ h5 {
   font-size: 0.85rem;
   font-family: para;
   background-color: #6A2A35;
-  border: 4px solid black;
+  border: 6px solid black;
 }
 
 .rank th,td {
-  border: 4px solid black;
+  border: 6px solid black;
   flex-direction: row;
   padding: 0.3rem;
   font-size: 1.3rem;
@@ -145,7 +145,7 @@ h5 {
   padding: 1rem;
   font-family: para;
   background-color: #6A2A35;
-  border: 4px solid black;
+  border: 6px solid black;
   float: right;
 }
 
@@ -210,13 +210,13 @@ h5 {
   border-collapse: collapse;
   font-family: thevalorant;
   background-color: #fb4353;
-  border: 4px solid black;
+  border: 6px solid black;
   margin-top: -1rem;
   padding: 0.5rem;
 }
 
 .timewrap tr, th {
-  border: 4px solid black;
+  border: 6px solid black;
   padding: 0.55rem;
   margin-top: 1rem;
   font-size: 1.5rem;
@@ -260,11 +260,11 @@ h5 {
   font-size: 1rem;
   font-family: thevalorant;
   background-color: #6A2A35;
-  border: 4px solid black;
+  border: 6px solid black;
 }
 
 .timewrap tr th {
-  border: 4px solid black;
+  border: 6px solid black;
   padding: 0.55rem;
   text-align: center;
   font-family: thevalorant
