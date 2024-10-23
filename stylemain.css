@@ -303,6 +303,10 @@ h5 {
     *{
      font-size: 3rem;
     } 
+
+    table{
+      border: 4px solid black;
+    }
      .all{
        margin-top: 2.75rem;
      }
