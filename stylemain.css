@@ -42,7 +42,7 @@ nav {
   display: flex;
   gap: 0.5rem;
   flex-direction: row;
-  margin-left: 23.5rem;
+  margin-left: 22.5rem;
   margin-top: 0rem;
   font-family: thevalorant;
 }
@@ -76,7 +76,7 @@ h5 {
       -1px 1px 0 black,
       1px 1px 0 black;
   transform: scaleY(0.9);
-  margin-top: 0.45rem;
+  margin-top: 0.35rem;
 }
 
 
