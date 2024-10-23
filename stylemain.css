@@ -11,7 +11,7 @@
 * {
   font-weight: 100;
   letter-spacing: 0.1rem;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .flexall{
