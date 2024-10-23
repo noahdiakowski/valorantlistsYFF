@@ -76,7 +76,7 @@ h5 {
       -1px 1px 0 black,
       1px 1px 0 black;
   transform: scaleY(0.9);
-  margin-top: 0.35rem;
+  margin-top: 0.45rem;
 }
 
 
@@ -309,7 +309,7 @@ h5 {
      .tbteam{
        margin-top: 2.3rem;
       height: 30vh;
-      width: 96.78vw;
+      width: 95.78vw;
      }
    
      .lag1, .lag3{
@@ -324,8 +324,7 @@ h5 {
      }
    
      h5{
-       margin-top: 1.3rem;
-       margin-right: 0.5rem;
+       margin-top: 1rem;
      }  
      .timewrap{
        margin-top: 4rem;
@@ -337,7 +336,7 @@ h5 {
    
      #valo{
        margin-top: 1rem;
-       width: 27vw;
+       width: 30vw;
      }
    
      #ranking{
