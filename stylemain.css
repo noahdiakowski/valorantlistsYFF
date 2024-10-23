@@ -111,10 +111,10 @@ h5 {
   color: #fb4353;
   text-align: center;
   text-shadow:
-      -1px -1px 0 black,
-      1px -1px 0 black,
-      -1px 1px 0 black,
-      1px 1px 0 black;
+      -3px -3px 0 black,
+      3px -3px 0 black,
+      -3px 3px 0 black,
+      3px 3px 0 black;
 }
 
 
@@ -122,10 +122,10 @@ h5 {
   color: white;
   font-family: thevalorant;
   text-shadow:
-      -1px -1px 0 #fb4353,
-      1px -1px 0 #fb4353,
-      -1px 1px 0 #fb4353,
-      1px 1px 0 #fb4353;
+      -3px -3px 0 #fb4353,
+      3px -3px 0 #fb4353,
+      -3px 3px 0 #fb4353,
+      3px 3px 0 #fb4353;
 }
 
 .wrapteam{
@@ -163,10 +163,10 @@ h5 {
   font-weight: 100;
   font-size: 1rem;
   text-shadow:
-      -1px -1px 0 #fb4353,
-      1px -1px 0 #fb4353,
-      -1px 1px 0 #fb4353,
-      1px 1px 0 #fb4353;
+      -3px -3px 0 #fb4353,
+      3px -3px 0 #fb4353,
+      -3px 3px 0 #fb4353,
+      3px 3px 0 #fb4353;
 }
 
 .name {
@@ -229,10 +229,10 @@ h5 {
   font-size: 1rem;
   font-weight: bold;
   text-shadow:
-  -0.5px -0.5px 0 white,
-  0.5px -0.5px 0 white,
-  -0.5px 0.5px 0 #fff,
-  0.5px 0.5px 0 #fff;
+  -1px -1px 0 white,
+  1px -1px 0 white,
+  1px 1px 0 #fff,
+  1px 1px 0 #fff;
 }
 
 
@@ -273,10 +273,10 @@ h5 {
 .type4{
   color: white;
   text-shadow:   
-  -0.5px -0.5px 0 #fb4353,
-  0.5px -0.5px 0 #fb4353,
-  -0.5px 0.5px 0 #fb4353,
-  0.5px 0.5px 0 #fb4353;
+  -2.5px -2.5px 0 #fb4353,
+  2px -2.5px 0 #fb4353,
+  -2px 2.5px 0 #fb4353,
+  2.5px 2.5px 0 #fb4353;
 }
 
 .type2{
